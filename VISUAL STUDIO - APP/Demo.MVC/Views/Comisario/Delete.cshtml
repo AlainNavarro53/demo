@@ -1,0 +1,30 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model Demo.Business.ViewModels.Comisario.ComisarioViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container-fluid">
+
+    <form method="post" asp-controller="Comisario" asp-action="Delete">
+
+        <div class="card col-8 offset-2">
+            <div class="card-header bg-black text-white">
+                <h4 class="text-center fst-italic">Eliminando: @Model.Nombre</h4>
+            </div>
+            <div class="card-body">
+                <h5 class="fst-italic">Estas seguro de eliminar @Model.Nombre de la lista de comisarios?</h5>
+            </div>
+            <div class="card-footer">
+                <div>
+                    <button type="submit" class="btn btn-outline-danger">Remove</button>
+                    <a asp-controller="Comisario" asp-action="Index" class="btn btn-outline-warning">Back</a>
+                </div>
+            </div>
+        </div>
+
+        <input asp-for="Id" type="hidden">
+
+    </form>
+</div>

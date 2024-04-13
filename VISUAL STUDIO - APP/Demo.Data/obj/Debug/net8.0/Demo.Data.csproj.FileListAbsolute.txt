@@ -1,0 +1,34 @@
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\bin\Debug\net8.0\Demo.Data.deps.json
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\bin\Debug\net8.0\Demo.Data.runtimeconfig.json
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\bin\Debug\net8.0\Demo.Data.dll
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\bin\Debug\net8.0\Demo.Data.pdb
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\bin\Debug\net8.0\Demo.Entities.dll
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\bin\Debug\net8.0\Demo.Entities.pdb
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.csproj.Up2Date
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.dll
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\refint\Demo.Data.dll
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.pdb
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\Demo.Data.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Data\obj\Debug\net8.0\ref\Demo.Data.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\bin\Debug\net8.0\Demo.Data.deps.json
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\bin\Debug\net8.0\Demo.Data.runtimeconfig.json
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\bin\Debug\net8.0\Demo.Data.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\bin\Debug\net8.0\Demo.Data.pdb
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\bin\Debug\net8.0\Demo.Entities.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\bin\Debug\net8.0\Demo.Entities.pdb
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.csproj.AssemblyReference.cache
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.AssemblyInfoInputs.cache
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.AssemblyInfo.cs
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.csproj.CoreCompileInputs.cache
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.csproj.Up2Date
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\refint\Demo.Data.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.pdb
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\Demo.Data.genruntimeconfig.cache
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Data\obj\Debug\net8.0\ref\Demo.Data.dll

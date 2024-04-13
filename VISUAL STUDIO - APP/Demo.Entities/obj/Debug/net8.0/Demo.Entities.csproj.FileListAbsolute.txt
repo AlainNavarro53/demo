@@ -1,0 +1,22 @@
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\bin\Debug\net8.0\Demo.Entities.deps.json
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\bin\Debug\net8.0\Demo.Entities.dll
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\bin\Debug\net8.0\Demo.Entities.pdb
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\Demo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\Demo.Entities.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\Demo.Entities.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\Demo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\Demo.Entities.dll
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\refint\Demo.Entities.dll
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\Demo.Entities.pdb
+C:\Users\Daniel\Desktop\Alain\Demo\Demo.Entities\obj\Debug\net8.0\ref\Demo.Entities.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\bin\Debug\net8.0\Demo.Entities.deps.json
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\bin\Debug\net8.0\Demo.Entities.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\bin\Debug\net8.0\Demo.Entities.pdb
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\Demo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\Demo.Entities.AssemblyInfoInputs.cache
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\Demo.Entities.AssemblyInfo.cs
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\Demo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\Demo.Entities.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\refint\Demo.Entities.dll
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\Demo.Entities.pdb
+C:\Users\ALAIN NAVARRO\Documents\Visual Studio 2019\PROYECTO\VISUAL STUDIO\Demo.Entities\obj\Debug\net8.0\ref\Demo.Entities.dll
